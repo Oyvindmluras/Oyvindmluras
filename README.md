@@ -3,7 +3,7 @@
 Hi there 👋
 
 📧 [Email](mailto:oyvind@luraas.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/oyvindmluras/)
+💼 [LinkedIn](https://www.linkedin.com/in/oyvindmluras/)  
 🌐 [Website](https://oyvind.luraas.com)
 
 <!--
