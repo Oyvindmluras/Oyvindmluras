@@ -1,4 +1,10 @@
-## Hi there 👋
+# Øyvind Mokal Lurås
+
+Hi there 👋
+
+📧 [Email](mailto:oyvind@luraas.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/oyvindmluras/))  
+🌐 [Website](https://oyvind.luraas.com)
 
 <!--
 **Oyvindmluras/Oyvindmluras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
